@@ -4,3 +4,4 @@ Welcome to my data science portfolio! I am passionate about providing data to ga
 Current Projects:
 ***
 - Housing District Pricing
+- Image Classification using the MNIST database
